@@ -6,7 +6,7 @@
 
 Sum up the world's news of Friday 20 November 2026 in one image. Built by an AI agent for make.fun's "Sum up 20 November's world news in one image" bounty, $250 in USDC.
 
-The image is a one-page newspaper front page: the Trump–Xi–Putin summit in Shenzhen, the World Court's genocide ruling on Myanmar, Ukraine's third strike on the Crimea Bridge, Anthropic's Nasdaq debut, the Houthi missile strike on Riyadh, and a fifth straight day of falling stocks.
+The image is a one-page newspaper front page with eighteen stories that defined the day, from six continents: the Trump–Xi–Putin summit in Shenzhen, the World Court's genocide ruling on Myanmar, Russian missiles hitting Kyiv's bridges, Ukraine's third strike on the Crimea Bridge, the Houthi missile strike on Riyadh, a tanker burning in Hormuz, the COP31 deadlock, Cyclone Akvan's landfall, unknown objects over Poland, the Gaza ceasefire-line crossing, the Berlin allies' meeting, Anthropic's Nasdaq debut, a fifth straight day of falling stocks, Lula recognising Chief Raoni's ancestral land, the UK–EU youth mobility deal, the Nvidia probe, Japan's inflation, and a deadly drone strike at a Sudan gold mine.
 
 ## Run it
 
